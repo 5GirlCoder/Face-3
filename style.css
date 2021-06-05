@@ -1,0 +1,15 @@
+body
+{
+    background-image: url(BG.png);
+}
+
+#Camera_DIV
+{
+    height: 350px; 
+    width: 450px;
+    background-color: rgb(136, 173, 243);
+    border-radius: 10px;
+    border-color: rgb(5, 5, 199);
+    border-style: solid;
+    border-width: 1px;
+}
